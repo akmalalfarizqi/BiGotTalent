@@ -16,7 +16,7 @@ public class FormSiswa extends javax.swing.JFrame {
     /**
      * Creates new form FormSiswa
      */
-    private int idLoginSiswa;
+    int idLoginSiswa;
     
     public FormSiswa() {
         initComponents();
